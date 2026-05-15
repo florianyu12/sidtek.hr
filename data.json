@@ -1,0 +1,103 @@
+{
+  "company": {
+    "name": "熙泰科技",
+    "logo": "https://i.postimg.cc/VLj30shx/result-9aad8ac7-367d-42b8-832a-ec833458034b.png",
+    "logoSize": 120,
+    "slogan": "筑梦新视界，创造新未来！",
+    "description": "熙泰科技成立于2016年6月，总部位于安徽芜湖，是一家专注于硅基OLED微显示芯片研发与制造的高科技企业，国内Micro OLED领域早期布局者，主要生产0.2\"-2\"微型显示器件，应用于VR/AR等近眼显示设备。熙泰科技于2018年实现首代产品点亮，并于次年建成8英寸产线，首条12英寸产线在2024年5月成功点亮产品，第二条12英寸产线已在四川南充开工建设，配套IC设计中心分布于成都、苏州及海外研发办公室，已形成完整产业链布局。\n目前熙泰及其子分公司目前在册员工超700人，研发及技术人员占比高，全部来自半导体、OLED显示等高科技领域，包含部分外籍专家团队。本科及以上学历人数超7成， 其中硕博学历人数占20%，人员平均年龄30岁，团队年轻充满活力。",
+    "textAlign": "left",
+    "textIndent": 2,
+    "lineHeight": "1.7",
+    "letterSpacing": "0",
+    "fontSize": "18px",
+    "paragraphSpacing": 0,
+    "image": "https://i.postimg.cc/HL6sCkzW/wei-xin-tu-pian-20260514105644-33-19.jpg",
+    "backgroundImage": "https://i.postimg.cc/Hn9vN4VX/wei-xin-tu-pian-20260514163947-37-19.jpg",
+    "descriptionFormat": {
+      "textAlign": "left",
+      "textIndent": 2,
+      "lineHeight": "1.7",
+      "letterSpacing": "0",
+      "fontSize": "18px",
+      "paragraphSpacing": 0
+    }
+  },
+  "contact": {
+    "address": "安徽芜湖市三山区三华山路22号",
+    "email": "hr@sidtek.cn",
+    "phone": "18949502801"
+  },
+  "wechatQrcode": "https://i.postimg.cc/fycJXkJn/wei-xin-tu-pian-20260514163246-85-10.jpg",
+  "environmentImages": [
+    {
+      "id": "1",
+      "url": "https://i.postimg.cc/HL6sCkzW/wei-xin-tu-pian-20260514105644-33-19.jpg",
+      "description": "公司外景"
+    },
+    {
+      "id": "2",
+      "url": "https://i.postimg.cc/4NKhB4qk/wei-xin-tu-pian-20260514164916-38-19.jpg",
+      "description": "公司外夜景"
+    },
+    {
+      "id": "3",
+      "url": "https://i.postimg.cc/rFp7H3Nc/wei-xin-tu-pian-20260514165634-39-19.jpg",
+      "description": "员工活动"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "campus-1",
+      "name": "OLED器件研发工程师",
+      "category": "校园招聘",
+      "department": "研发部",
+      "location": "安徽芜湖",
+      "education": "硕士",
+      "description": "负责OLED器件结构设计与工艺优化，参与新产品研发项目。",
+      "applyUrl": "https://form.jinshuju.net/f/example"
+    },
+    {
+      "id": "campus-2",
+      "name": "工艺整合工程师",
+      "category": "校园招聘",
+      "department": "工艺部",
+      "location": "安徽芜湖",
+      "education": "本科",
+      "description": "负责工艺流程整合与优化，解决生产过程中的工艺问题。",
+      "applyUrl": "https://form.jinshuju.net/f/example"
+    },
+    {
+      "id": "social-1",
+      "name": "高级像素电路设计工程师",
+      "category": "社会招聘",
+      "department": "研发部",
+      "location": "安徽芜湖",
+      "education": "本科",
+      "experience": "3年",
+      "description": "负责OLED像素电路设计与仿真，优化电路性能。",
+      "applyUrl": "https://form.jinshuju.net/f/example"
+    },
+    {
+      "id": "social-2",
+      "name": "FAE现场应用工程师",
+      "category": "社会招聘",
+      "department": "技术支持部",
+      "location": "安徽芜湖",
+      "education": "本科",
+      "experience": "2年",
+      "description": "负责客户端技术支持，协助客户解决产品应用问题。",
+      "applyUrl": "https://form.jinshuju.net/f/example"
+    },
+    {
+      "id": "social-3",
+      "name": "质量体系工程师",
+      "category": "社会招聘",
+      "department": "质量部",
+      "location": "安徽芜湖",
+      "education": "本科",
+      "experience": "5年",
+      "description": "负责质量体系建立与维护，推动质量改进项目。",
+      "applyUrl": "https://form.jinshuju.net/f/example"
+    }
+  ]
+}
