@@ -4,13 +4,7 @@
     "logo": "https://i.postimg.cc/VLj30shx/result-9aad8ac7-367d-42b8-832a-ec833458034b.png",
     "logoSize": 120,
     "slogan": "筑梦新视界，创造新未来！",
-    "description": "熙泰科技成立于2016年6月，总部位于安徽芜湖，是一家专注于硅基OLED微显示芯片研发与制造的高科技企业，国内Micro OLED领域早期布局者，主要生产0.2\"-2\"微型显示器件，应用于VR/AR等近眼显示设备。熙泰科技于2018年实现首代产品点亮，并于次年建成8英寸产线，首条12英寸产线在2024年5月成功点亮产品，第二条12英寸产线已在四川南充开工建设，配套IC设计中心分布于成都、苏州及海外研发办公室，已形成完整产业链布局。\n目前熙泰及其子分公司目前在册员工超700人，研发及技术人员占比高，全部来自半导体、OLED显示等高科技领域，包含部分外籍专家团队。本科及以上学历人数超7成， 其中硕博学历人数占20%，人员平均年龄30岁，团队年轻充满活力。",
-    "textAlign": "left",
-    "textIndent": 2,
-    "lineHeight": "1.7",
-    "letterSpacing": "0",
-    "fontSize": "18px",
-    "paragraphSpacing": 0,
+    "description": "熙泰科技成立于2016年6月，总部位于安徽芜湖，是一家专注于硅基OLED微显示芯片研发与制造的高科技企业，国内Micro OLED领域早期布局者，主要生产0.2\"-2\"微型显示器件，应用于VR/AR等近眼显示设备。\n\n熙泰科技于2018年实现首代产品点亮，并于次年建成8英寸产线，首条12英寸产线在2024年5月成功点亮产品，第二条12英寸产线已在四川南充开工建设，配套IC设计中心分布于成都、苏州及海外研发办公室，已形成完整产业链布局。\n\n目前熙泰及其子分公司目前在册员工超700人，研发及技术人员占比高，全部来自半导体、OLED显示等高科技领域，包含部分外籍专家团队。本科及以上学历人数超7成，其中硕博学历人数占20%，人员平均年龄30岁，团队年轻充满活力。",
     "image": "https://i.postimg.cc/HL6sCkzW/wei-xin-tu-pian-20260514105644-33-19.jpg",
     "backgroundImage": "https://i.postimg.cc/Hn9vN4VX/wei-xin-tu-pian-20260514163947-37-19.jpg",
     "descriptionFormat": {
@@ -19,7 +13,7 @@
       "lineHeight": "1.7",
       "letterSpacing": "0",
       "fontSize": "18px",
-      "paragraphSpacing": 0
+      "paragraphSpacing": 16
     }
   },
   "contact": {
