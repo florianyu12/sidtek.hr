@@ -1,7 +1,16 @@
 import { NextResponse } from 'next/server';
-import { getData, saveData } from '@/lib/data';
+import { getData } from '@/lib/data';
 
 const AUTH_TOKEN = 'xitaikeji2025';
+
+let cachedData = null;
+
+function getCachedData() {
+  if (!cachedData) {
+    cachedData = getData();
+  }
+  return cachedData;
+}
 
 function verifyAuth(request: Request): boolean {
   const authToken = request.headers.get('x-auth-token');
@@ -10,7 +19,7 @@ function verifyAuth(request: Request): boolean {
 
 export async function GET() {
   try {
-    const data = getData();
+    const data = getCachedData();
     return NextResponse.json(data);
   } catch (error) {
     return NextResponse.json({ error: 'Failed to read data' }, { status: 500 });
@@ -24,7 +33,7 @@ export async function PUT(request: Request) {
 
   try {
     const data = await request.json();
-    saveData(data);
+    cachedData = data;
     return NextResponse.json({ success: true });
   } catch (error) {
     return NextResponse.json({ error: 'Failed to save data' }, { status: 500 });
